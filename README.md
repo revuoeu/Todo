@@ -1,2 +1,2 @@
 # Todo
-Sample todo application
+Sample todo application that can run in Revuo
